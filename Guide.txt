@@ -1,0 +1,2 @@
+1st-Morphologiacal operations.py
+2nd-Fuzzy-c-means.py
